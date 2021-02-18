@@ -1,0 +1,29 @@
+body{
+   background-color: black;
+   color: white;
+
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+
+   font-family: Arial, Helvetica, sans-serif;
+
+   margin: 10px  50px;
+
+}
+body :first-child{
+   background-color: darkblue;
+}
+body h1{
+   background-color: darkgreen;
+}
+body h3{
+   background-color: darkgreen;
+}
+body h4{
+   background-color: darkblue;
+   margin-bottom: -15px;
+}
+body h5{
+   background-color: green;
+}

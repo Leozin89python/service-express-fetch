@@ -1,0 +1,20 @@
+[
+
+    {
+        "nome":"Leonardo Mendes",
+        "cargo":"CEO"
+    },{
+        "nome":"Ana Maria",
+        "cargo":"Gerente de projetos"
+    },{
+        "nome":"Lourival Aguiar",
+        "cargo":"Executivo de vendas"
+    },{
+        "nome":"Tatiana Aguiar",
+        "cargo":"Gerente de relações internacionais"
+    },{
+        "nome":"Leonel Sousa",
+        "cargo":"Gerente financeiro"
+    }
+
+]
